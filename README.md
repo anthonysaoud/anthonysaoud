@@ -1,4 +1,6 @@
-- 👀 Hauler of data. Plumber of pipelines. Sometimes a Seer.
+🛻 Hauler of data. 
+🪠 Plumber of pipelines. 
+🔮 Occasionally a Seer.
 
 
 <!---
