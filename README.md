@@ -1,5 +1,4 @@
-- 👀 I’m interested in learning how to build awesome web apps that help businesses operate more efficiently. 
-- 🌱 I’m currently learning react.js, Node, and Monkey C
+- 👀 Hauler of data. Plumber of pipelines. Sometimes a Seer.
 
 
 <!---
